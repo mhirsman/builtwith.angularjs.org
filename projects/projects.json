@@ -1,6 +1,23 @@
 {
   "featured": "YouTube on PS3",
   "projects": [
+      {
+          "name": "Tagy CMS components",
+          "thumb": "tagy/thumb.png",
+          "desc": "AngularJS directives for HTML5 inspired CMS, without server-side templates. Just annotate HTML elements and you can update content inline with Tagy editor.",
+          "url": "http://cnvrtly.com/tagy-demo/index.html",
+          "info": "http://tagy.cnvrtly.com",
+          "src": "https://github.com/mhirsman/tagy-cms-components-demo",
+          "submitter": "mhirsman",
+          "submissionDate": "2014-07-12",
+          "tags": [
+              "Demo",
+               "CMS", "Productivity", "Developers",
+    "Iframe AngularJS connection","HTML inline content editor", "Editable directive",
+    "jQuery",
+    "Open Source"
+    ]
+    },
   {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
